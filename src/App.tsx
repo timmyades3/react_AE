@@ -1,8 +1,8 @@
 import { languages } from "./languages.ts";
 import React from "react";
 import { getWord } from "./utils.ts";
-import ConfettiContainer from "./components/confettiContainer.tsx";
-import Header from "./components/header.tsx";
+import ConfettiContainer from "./components/ConfettiContainer.tsx";
+import Header from "./components/Header.tsx";
 import GameStatus from "./components/GameStatus.tsx";
 import AriaLiveStatus from "./components/AriaLiveStatus.tsx";
 import LanguageChip from "./components/LanguageChip.tsx";
